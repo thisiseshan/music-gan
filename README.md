@@ -1,2 +1,2 @@
-# Pied-piper-2.0
-This is a repo for AMOC 2019
+# Generate Music Using Generative Adversarial Network (GAN)
+This repo includes all the code for generating new Music from existing Music. The Data used while training this network is not included.
